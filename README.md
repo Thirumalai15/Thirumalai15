@@ -16,4 +16,4 @@ Designer by day and developer by night!
 <br />
 
 
-![Thirumalai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirumalai15&theme=dark&include_all_commits=true&show_icons=true)
+![Thirumalai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirumalai15&theme=dark&show_icons=true)
