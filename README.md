@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me Thirumalai raj
 Designer by day and developer by night!
-- 🔭 I’m currently working in [icrewsystems](https://icrewsystems.com/)                                                 
+- :man_technologist: Fullstack developer at [icrewsystems](https://icrewsystems.com/)                                                 
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about Webapplication development
 - 📫 How to reach me :
