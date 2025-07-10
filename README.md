@@ -1,8 +1,6 @@
 ### Hi there 👋 It's me Thirumalai raj
-Designer by day and developer by night!
-- :man_technologist: Fullstack developer at [icrewsystems](https://icrewsystems.com/)                                                 
-- 🌱 I’m currently learning Laravel
-- 💬 Ask me about Webapplication development
+Designer by day and developer by night!                                           
+- 🧑‍💻 I’m currently learning Embedded Systems
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thirumalai-raj-a10a031b3/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__rahul.__.17)
